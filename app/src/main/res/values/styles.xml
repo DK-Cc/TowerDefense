@@ -1,0 +1,81 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <!-- radiobutton 的样式-->
+    <style name="RadioButtonStyle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    
+    <!-- TextView的格式 -->
+    <style name="TextViewFormat" >
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    
+    <!-- 图片加上字体显示,字体在底部居中 -->
+    <style name="TextViewFormat_small">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    
+    <!-- TextView字体小的样式2 -->
+    <style name="TextViewFormat_small2">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    
+    <!-- TextView字体小的样式2 -->
+    <style name="TextViewFormat_verySmall">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    
+    <!-- Theme is the width dialog theme. -->
+    <style name="WidthDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/dialog_back</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:layout_width">300dp</item>
+    </style>
+    
+    <!-- Base application theme is the dialog theme. -->
+    <style name="DialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/dialog_back</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:layout_width">200dp</item>
+    </style>
+    
+    <!-- This theme is for the dialog showing the "how to play"-instructions -->
+    <style name="InstructionDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/dialog_back</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:layout_width">200dp</item>
+    </style>
+
+    <!-- Used for the InGameMenu when the MENU button is pressed. -->
+    <style name="InGameMenu" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"></style>
+    
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

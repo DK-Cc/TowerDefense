@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="iv_map1" type="id"/>
+    <item name="iv_map2" type="id"/>
+    <item name="iv_map3" type="id"/>
+    <item name="iv_map4" type="id"/>
+    <item name="iv_map5" type="id"/>
+    <item name="iv_map6" type="id"/>
+    <item name="tv_fireLevel" type="id"/>
+    <item name="tv_attackLevel" type="id"/>
+    <item name="tv_specialLevel" type="id"/>
+    <item name="tv_toxinLevel" type="id"/>
+    <item name="tv_iceLevel" type="id"/>
+    <item name="iv_showFireIcon" type="id"/>
+    <item name="iv_showSpecialIcon" type="id"/>
+    <item name="iv_showToxinIcon" type="id"/>
+    <item name="iv_showIceIcon" type="id"/>
+    <item name="tv_fireLevelValue" type="id"/>
+    <item name="tv_specialLevelValue" type="id"/>
+    <item name="tv_toxinLevelValue" type="id"/>
+    <item name="tv_iceLevelValue" type="id"/>
+
+</resources>

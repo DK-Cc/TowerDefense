@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainmenu.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\mainmenu.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_quit.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\dialog_quit.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_first.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainmenu_startgame.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\mainmenu_startgame.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scorerank.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\item_scorerank.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tower_upgrade.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\tower_upgrade.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gamebut_towersinfo.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\gamebut_towersinfo.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whether_resume.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\whether_resume.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_monsterinfo.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\dialog_monsterinfo.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resume_dialog.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\resume_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\winorlose.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\winorlose.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playgame_activity.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\playgame_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_showresume.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\item_showresume.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gamebut_towers.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\gamebut_towers.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainmenu_options.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\mainmenu_options.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_dialog_web.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\src\\main\\res\\layout\\help_dialog_web.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\TowerDefense\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    }
+]

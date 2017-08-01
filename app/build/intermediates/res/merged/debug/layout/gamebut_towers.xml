@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_towers"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/iv_accelerate1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/xml_button_forward"
+        android:contentDescription="@string/this_is_button" />
+
+    <ImageView
+        android:id="@+id/iv_tower1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/t1"
+        android:contentDescription="@string/this_is_button" />
+
+    <ImageView
+        android:id="@+id/iv_tower2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/t2"
+        android:contentDescription="@string/this_is_button" />
+
+    <ImageView
+        android:id="@+id/iv_tower3"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/t3"
+        android:contentDescription="@string/this_is_button" />
+
+    <ImageView
+        android:id="@+id/iv_tower4"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/t4"
+        android:contentDescription="@string/this_is_button" />
+
+</LinearLayout>

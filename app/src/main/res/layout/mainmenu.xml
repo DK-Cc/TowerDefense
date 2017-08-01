@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainmenu"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <ImageButton
+        android:id="@+id/ib_startGame"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/xml_button_startgame"
+        android:contentDescription="@string/startGame" />
+
+    <ImageButton
+        android:id="@+id/ib_options"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/xml_button_options" 
+        android:contentDescription="@string/options"/>
+
+    <ImageButton
+        android:id="@+id/ib_help"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/xml_button_help"
+        android:contentDescription="@string/help" />
+
+</LinearLayout>

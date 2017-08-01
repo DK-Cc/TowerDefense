@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">塔防</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="startGame">开始游戏</string>
+    <string name="options">选项</string>
+    <string name="help">帮助</string>
+    <string name="multiplayer">多人游戏</string>
+    <string name="picture">图片</string>
+    <string name="Resume_last_game">是否继续游戏？</string>
+    <string name="newGame">新游戏</string>
+    <string name="resume">继续</string>
+	<string name="sounds">声音:</string>
+	<string name="scoreRanking">分数排名：</string>
+	<string name="nextLevel">下一波提示:</string>
+	<string name="showHighScores">显示分数排名</string>
+	<string name="back">返回</string>
+    <string name="easy">简单</string>
+    <string name="normal">一般</string>
+    <string name="hard">困难</string>
+    <string name="normal_game">正常模式</string>
+    <string name="survival_ganme">生存模式</string>
+    <string name="test_String">这是一句测试字符串</string>
+	<string name="this_is_button">这是一张图片</string>
+	<string name="it_will_be_replaced">这个ImageView将会被替代</string>
+	<string name="show_loading">显示loading图片</string>
+	<string name="delete_tower">删除防御塔</string>
+	<string name="sword_picture">剑图片</string>
+	<string name="level_picture">等级图片</string>
+	<string name="is_quit">是否退出游戏?</string>
+	<string name="yes">是</string>
+	<string name="no">否</string>
+	<string name="time">时间：</string>
+	<string name="mode">模式：</string>
+	<string name="difficulty">难度：</string>
+	<string name="wave">波数：</string>
+	<string name="rLife">剩余生命：</string>
+	<string name="money">金钱：</string>
+	<string name="score">分数：</string>
+	<string name="confirm">确定</string>
+	<string name="delete">删除</string>
+	<string name="loading">加载</string>
+	<string name="boold">血量：</string>
+	<string name="special_skill">特殊能力：</string>
+	<string name="phisic_ant">物抗：</string>
+	<string name="kill_getmoney">杀死可获金钱：</string>
+	<string name="kill_getscore">杀死可获分数：</string>
+	<string name="move_speed">移速：</string>
+</resources>

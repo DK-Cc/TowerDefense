@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mapDescription">
+        <item>草原</item>
+        <item>冰地</item>
+        <item>沙漠</item>
+        <item>草原2</item>
+        <item>冰地2</item>
+        <item>沙漠2</item>
+    </string-array>
+
+</resources>
